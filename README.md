@@ -1,5 +1,7 @@
 # Energy Monitoring Data (Kenya)
 
+> This data is in no way canon - Data is only provided for curious minds.
+
 This data is a log of estimated cost of energy applications snapshoted from a Kenya Power simulation.
 
 Data is collected from a WEMO switch using the script in [tools](./tools/scripts/).
