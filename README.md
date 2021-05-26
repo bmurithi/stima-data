@@ -20,7 +20,7 @@ Estimates are computed using [Kenya Power's energy simulation](https://selfservi
 
 # Records
 
-- [2021](/main/2021/all.csv)
+- [2021](/2021/all.csv)
 
 
 # Abbreviations
