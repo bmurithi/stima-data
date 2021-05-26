@@ -34,4 +34,4 @@ VAT | Value Added Tax
 
 Estimates are computed using [Kenya Power's energy simulation](https://selfservice.kplc.co.ke/).
 
-![Simulation Example](/raw/main/media/energy-simulation.png "Energy Simulation")
+![Simulation Example](https://raw.githubusercontent.com/bmurithi/stima-data/main/media/energy-simulation.png "Energy Simulation")
