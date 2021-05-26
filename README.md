@@ -21,3 +21,16 @@ Estimates are computed using [Kenya Power's energy simulation](https://selfservi
 # Records
 
 - [2021](/main/2021/all.csv)
+
+
+# Abbreviations
+
+Abbrv | Full Name
+----- | ---------
+KwH | Kilowatt Hour
+FERFA | Foreign Exchange Adjustment
+INFA | Inflation Adjustment
+ERC | Energy Regulary Commission Levy
+REP | Rural Electrification Authority Levy
+WARMA | Water Resource Management Authority Levy
+VAT | Value Added Tax
