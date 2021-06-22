@@ -12,15 +12,9 @@ This can be scraped using prometheus on OpenWRT using [prometheus-node-exporter-
 
 Data is published in `CSV` format.
 
-# Estimates
-
-Estimates are computed using [Kenya Power's energy simulation](https://selfservice.kplc.co.ke/).
-
-![Simulation Example][/main/media/energy-simulation.png]
-
 # Records
 
-- [2021](/main/2021/all.csv)
+- [2021](/2021/all.csv)
 
 
 # Abbreviations
@@ -34,3 +28,10 @@ ERC | Energy Regulary Commission Levy
 REP | Rural Electrification Authority Levy
 WARMA | Water Resource Management Authority Levy
 VAT | Value Added Tax
+
+
+# Estimates
+
+Estimates are computed using [Kenya Power's energy simulation](https://selfservice.kplc.co.ke/).
+
+![Simulation Example](https://raw.githubusercontent.com/bmurithi/stima-data/main/media/energy-simulation.png "Energy Simulation")
